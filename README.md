@@ -1,20 +1,28 @@
-A Shopping - Blogging site
+## A Shopping - Blogging site
 
 Ecommerce website with blogging feature with special admin features.
 This is a beggineer project for PHP enthusiasts .
 
 Technologies:-
+
+
 PHP 
+
 Bootstrap
+
 CSS
+
 HTML
+
 Mysql
 
 
 Main theme centric to this was , a platform for student centric items with basic functionalities such as 
 
 1.CONTACT 
+
 2.ADD to CART / remove 
+
 3.BLOGGING - add / remove /edit
 
 
